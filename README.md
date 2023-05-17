@@ -75,7 +75,7 @@ cd public
 now deploy --name my-project
 ```
 
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
+As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon..
 
 ### With [surge](https://surge.sh/)
 
